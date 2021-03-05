@@ -1,4 +1,5 @@
 import discord
+import os
 from discord.ext import commands
 from youtube_dl import YoutubeDL
 import time
@@ -76,4 +77,5 @@ async def 재생(ctx, *, msg):
     else:
         await ctx.send("이미 노래가 재생 중이라 노래를 재생할 수 없어요!")
 
-bot.run('Nzk2MTc3NDMzNzYxNjc3MzEy.X_UIBA.mQ0HGOsm9-VumDMARtFtplKPu9Q')
+access_token = os.environ('BOT_TOKEN')
+bot.run(access_token)
