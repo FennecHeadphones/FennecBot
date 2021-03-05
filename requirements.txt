@@ -1,5 +1,2 @@
 discord.py
-youtube_dl.py
-beautifulsoup4.py
-selenium.py
-requests.py
+pip install beautifulsoup4
