@@ -1,8 +1,1 @@
 discord.py
-bs4.py==4.9.3
-webdriver.py
-Options.py
-get.py
-FFmpegPCMAudio.py==4.3.2
-asynico.py
-time.py
