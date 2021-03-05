@@ -1,5 +1,4 @@
 discord.py
-YoutubeDL.py==2021.3.3
 bs4.py==4.9.3
 webdriver.py
 Options.py
