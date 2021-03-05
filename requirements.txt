@@ -1,7 +1,2 @@
 discord.py
-webdriver.py
-Options.py
-get.py
-FFmpegPCMAudio.py
-asyncio.py
-time.py
+youtubedl.py
